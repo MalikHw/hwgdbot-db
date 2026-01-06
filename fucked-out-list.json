@@ -1,0 +1,14 @@
+{
+  "crash-trigger": [
+    {
+      "level_id": "0",
+      "note": "This level crashes on startup - object limit exceeded"
+    },
+  ],
+  "nsfw": [
+    {
+      "level_id": "0",
+      "note": "Contains inappropriate imagery"
+    },
+  ]
+}
